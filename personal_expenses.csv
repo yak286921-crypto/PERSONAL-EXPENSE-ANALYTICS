@@ -1,0 +1,78 @@
+ExpenseID,Date,Category,Subcategory,Description,Amount,PaymentMode,Location,IsRecurring,Month,Week,DayOfWeek
+E001,2024-01-01,Food & Dining,Groceries,Monthly grocery shopping,3200,UPI,BigBazaar,Yes,January,1,Monday
+E002,2024-01-02,Transportation,Fuel,Petrol refill,1500,Cash,HP Petrol Pump,No,January,1,Tuesday
+E003,2024-01-03,Food & Dining,Restaurant,Dinner with family,1800,Credit Card,Mainland China,No,January,1,Wednesday
+E004,2024-01-05,Utilities,Electricity,Monthly electricity bill,1200,Net Banking,BSEB,Yes,January,1,Friday
+E005,2024-01-06,Entertainment,OTT Subscription,Netflix monthly,649,Credit Card,Online,Yes,January,1,Saturday
+E006,2024-01-07,Health & Fitness,Gym,Monthly gym membership,1500,UPI,Gold's Gym,Yes,January,2,Sunday
+E007,2024-01-08,Food & Dining,Coffee,Morning coffee,180,UPI,Cafe Coffee Day,No,January,2,Monday
+E008,2024-01-09,Shopping,Clothing,Winter jacket,2800,Credit Card,Myntra,No,January,2,Tuesday
+E009,2024-01-10,Education,Books,Programming books,1200,UPI,Amazon,No,January,2,Wednesday
+E010,2024-01-11,Transportation,Auto Rickshaw,Office commute,350,Cash,Local,No,January,2,Thursday
+E011,2024-01-12,Food & Dining,Groceries,Weekly vegetables,850,Cash,Local Market,No,January,2,Friday
+E012,2024-01-13,Entertainment,Movies,Weekend movie,600,UPI,PVR Cinemas,No,January,2,Saturday
+E013,2024-01-14,Food & Dining,Restaurant,Sunday brunch,1400,Credit Card,Dominos,No,January,2,Sunday
+E014,2024-01-15,Utilities,Internet,Monthly broadband bill,999,Net Banking,Airtel,Yes,January,3,Monday
+E015,2024-01-16,Health & Fitness,Medicine,Cold medicine,320,Cash,Pharmacy,No,January,3,Tuesday
+E016,2024-01-17,Food & Dining,Coffee,Office coffee,160,UPI,Starbucks,No,January,3,Wednesday
+E017,2024-01-18,Transportation,Taxi,Airport drop,1200,UPI,Ola,No,January,3,Thursday
+E018,2024-01-19,Shopping,Electronics,Phone case,450,UPI,Amazon,No,January,3,Friday
+E019,2024-01-20,Food & Dining,Restaurant,Date night dinner,3200,Credit Card,Barbeque Nation,No,January,3,Saturday
+E020,2024-01-21,Entertainment,Gaming,Game purchase,799,Credit Card,Steam,No,January,3,Sunday
+E021,2024-01-22,Education,Online Course,Udemy course,999,Credit Card,Online,No,January,4,Monday
+E022,2024-01-23,Food & Dining,Groceries,Weekly groceries,1100,UPI,Reliance Fresh,No,January,4,Tuesday
+E023,2024-01-24,Utilities,Mobile Recharge,Monthly mobile recharge,299,UPI,Online,Yes,January,4,Wednesday
+E024,2024-01-25,Transportation,Fuel,Petrol refill,1500,Cash,HP Petrol Pump,No,January,4,Thursday
+E025,2024-01-26,Health & Fitness,Doctor Visit,Routine checkup,500,Cash,Local Clinic,No,January,4,Friday
+E026,2024-01-27,Food & Dining,Restaurant,Friends outing,2200,Credit Card,Pizza Hut,No,January,4,Saturday
+E027,2024-01-28,Shopping,Home Decor,Wall clock,890,UPI,Flipkart,No,January,4,Sunday
+E028,2024-01-29,Food & Dining,Coffee,Morning coffee,180,UPI,Cafe Coffee Day,No,January,5,Monday
+E029,2024-01-30,Utilities,Water,Water bill,450,Cash,Municipal Corp,Yes,January,5,Tuesday
+E030,2024-01-31,Entertainment,OTT Subscription,Amazon Prime,299,Credit Card,Online,Yes,January,5,Wednesday
+E031,2024-02-01,Food & Dining,Groceries,Monthly grocery shopping,3400,UPI,BigBazaar,Yes,February,5,Thursday
+E032,2024-02-02,Transportation,Fuel,Petrol refill,1500,Cash,HP Petrol Pump,No,February,5,Friday
+E033,2024-02-03,Food & Dining,Restaurant,Weekend dinner,1600,Credit Card,KFC,No,February,5,Saturday
+E034,2024-02-05,Utilities,Electricity,Monthly electricity bill,1350,Net Banking,BSEB,Yes,February,6,Monday
+E035,2024-02-07,Health & Fitness,Gym,Monthly gym membership,1500,UPI,Gold's Gym,Yes,February,6,Wednesday
+E036,2024-02-08,Shopping,Clothing,Valentine gift,3500,Credit Card,Myntra,No,February,6,Thursday
+E037,2024-02-10,Food & Dining,Restaurant,Valentine's dinner,4500,Credit Card,The Oberoi,No,February,6,Saturday
+E038,2024-02-12,Education,Books,Data science book,1400,UPI,Amazon,No,February,7,Monday
+E039,2024-02-14,Food & Dining,Coffee,Morning coffee,180,UPI,Starbucks,No,February,7,Wednesday
+E040,2024-02-15,Utilities,Internet,Monthly broadband bill,999,Net Banking,Airtel,Yes,February,7,Thursday
+E041,2024-02-16,Entertainment,Movies,Movie night,700,UPI,INOX,No,February,7,Friday
+E042,2024-02-17,Food & Dining,Restaurant,Saturday outing,1900,Credit Card,Subway,No,February,7,Saturday
+E043,2024-02-18,Transportation,Auto Rickshaw,Market trip,280,Cash,Local,No,February,7,Sunday
+E044,2024-02-19,Health & Fitness,Medicine,Vitamins,650,UPI,Pharmacy,No,February,8,Monday
+E045,2024-02-20,Food & Dining,Groceries,Weekly groceries,950,UPI,Reliance Fresh,No,February,8,Tuesday
+E046,2024-02-22,Shopping,Electronics,Earphones,1299,UPI,Amazon,No,February,8,Thursday
+E047,2024-02-23,Utilities,Mobile Recharge,Monthly mobile recharge,299,UPI,Online,Yes,February,8,Friday
+E048,2024-02-24,Entertainment,OTT Subscription,Netflix monthly,649,Credit Card,Online,Yes,February,8,Saturday
+E049,2024-02-25,Transportation,Taxi,City ride,450,UPI,Uber,No,February,9,Sunday
+E050,2024-02-26,Food & Dining,Restaurant,Monday lunch,750,UPI,Local Restaurant,No,February,9,Monday
+E051,2024-02-27,Education,Online Course,Coursera course,1500,Credit Card,Online,No,February,9,Tuesday
+E052,2024-02-28,Utilities,Water,Water bill,450,Cash,Municipal Corp,Yes,February,9,Wednesday
+E053,2024-03-01,Food & Dining,Groceries,Monthly grocery shopping,3100,UPI,BigBazaar,Yes,March,9,Friday
+E054,2024-03-02,Transportation,Fuel,Petrol refill,1600,Cash,HP Petrol Pump,No,March,9,Saturday
+E055,2024-03-04,Utilities,Electricity,Monthly electricity bill,1100,Net Banking,BSEB,Yes,March,10,Monday
+E056,2024-03-05,Health & Fitness,Gym,Monthly gym membership,1500,UPI,Gold's Gym,Yes,March,10,Tuesday
+E057,2024-03-07,Food & Dining,Restaurant,Holi celebration,2800,Credit Card,Barbeque Nation,No,March,10,Thursday
+E058,2024-03-09,Shopping,Clothing,Holi outfit,1800,UPI,Myntra,No,March,10,Saturday
+E059,2024-03-10,Entertainment,Movies,Sunday movie,550,UPI,PVR Cinemas,No,March,11,Sunday
+E060,2024-03-11,Food & Dining,Groceries,Weekly groceries,880,Cash,Local Market,No,March,11,Monday
+E061,2024-03-12,Utilities,Internet,Monthly broadband bill,999,Net Banking,Airtel,Yes,March,11,Tuesday
+E062,2024-03-13,Health & Fitness,Doctor Visit,ENT specialist,800,Cash,City Hospital,No,March,11,Wednesday
+E063,2024-03-14,Transportation,Taxi,Shopping mall trip,380,UPI,Ola,No,March,11,Thursday
+E064,2024-03-15,Education,Books,Finance book,950,UPI,Amazon,No,March,11,Friday
+E065,2024-03-16,Food & Dining,Restaurant,Weekend lunch,1200,Credit Card,Dominos,No,March,11,Saturday
+E066,2024-03-18,Shopping,Home Decor,Curtains,2200,Credit Card,IKEA,No,March,12,Monday
+E067,2024-03-19,Utilities,Mobile Recharge,Monthly mobile recharge,299,UPI,Online,Yes,March,12,Tuesday
+E068,2024-03-20,Food & Dining,Coffee,Office coffee,200,UPI,Cafe Coffee Day,No,March,12,Wednesday
+E069,2024-03-22,Entertainment,OTT Subscription,Netflix monthly,649,Credit Card,Online,Yes,March,12,Friday
+E070,2024-03-23,Transportation,Fuel,Petrol refill,1500,Cash,HP Petrol Pump,No,March,12,Saturday
+E071,2024-03-24,Food & Dining,Restaurant,Sunday family dinner,2600,Credit Card,Mainland China,No,March,12,Sunday
+E072,2024-03-25,Health & Fitness,Medicine,Allergy medicine,420,Cash,Pharmacy,No,March,13,Monday
+E073,2024-03-27,Shopping,Electronics,USB Hub,799,UPI,Amazon,No,March,13,Wednesday
+E074,2024-03-28,Food & Dining,Groceries,Weekly groceries,1050,UPI,Reliance Fresh,No,March,13,Thursday
+E075,2024-03-29,Utilities,Water,Water bill,450,Cash,Municipal Corp,Yes,March,13,Friday
+E076,2024-03-30,Education,Online Course,LinkedIn Learning,1200,Credit Card,Online,No,March,13,Saturday
+E077,2024-03-31,Entertainment,OTT Subscription,Amazon Prime,299,Credit Card,Online,Yes,March,13,Sunday
